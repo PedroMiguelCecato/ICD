@@ -1,0 +1,1 @@
+Repositório com os principais conteúdos da cadeira de Introdução a Ciência de Dados, no 2º período.
